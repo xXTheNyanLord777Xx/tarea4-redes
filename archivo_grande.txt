@@ -1,0 +1,15 @@
+Linea 01: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 02: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 03: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 04: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 05: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 06: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 07: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 08: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 09: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 10: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 11: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 12: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 13: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 14: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 15: este es un archivo de prueba para Go-Back-N con control de congestion.

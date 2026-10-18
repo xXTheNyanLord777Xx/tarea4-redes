@@ -1,0 +1,2 @@
+Linea 01: este es un archivo de prueba para Go-Back-N con control de congestion.
+Linea 02: este es u
